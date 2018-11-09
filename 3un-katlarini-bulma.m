@@ -1,5 +1,3 @@
-clc;
-
 toplam=0;
 sayac=0;
 
