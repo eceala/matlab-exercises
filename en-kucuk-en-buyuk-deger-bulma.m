@@ -9,7 +9,6 @@ sutun = 1;
 for i=1:5
     for j=1:5
         deger = a(i,j);
-
         if deger > max %max degeri surekli guncellenecek
            max = deger;
            satir = i;
